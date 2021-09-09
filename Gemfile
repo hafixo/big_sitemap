@@ -6,5 +6,5 @@ gem 'rake'
 
 group :test do
   gem 'shoulda'
-  gem 'nokogiri'
+  gem 'nokogiri', '>= 1.8.2'
 end
